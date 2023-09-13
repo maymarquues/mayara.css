@@ -1,13 +1,16 @@
-# mayara.css
-@@ -1,23 +1,26 @@
 h1 {
     text-align:center;
     background-color: aqua;
 }
+h2{
+    text-align: center;
+}
 h3{
     font-style: oblique;
     background-color: blue;
+    text-align: center;
 }
+
 p {
     text-align: center;
     font-size: medium;
@@ -19,12 +22,20 @@ body {
     background-color: blueviolet;
 }
 .imagem1 {
-    width: 20px;
+    width: 200px;
+}
+.imagemcentralizada {
+ text-align: center;
 }
 .unicornio {
     background-color: forestgreen
-
 }
 .brilho {
    color: aqua;
+    font-style: italic
 }
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
