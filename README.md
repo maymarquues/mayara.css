@@ -1,24 +1,27 @@
- body{
-       color:black;
-       background-color:lightpink
-    }
+h1 {
+    color: aquamarine;
+}
+h2{
+    color: rgb(105, 195, 255);
+}
 
-   ul{
+
+h4 {
+    color: rgb(16, 12, 241);r
+}
+
+body {
+    background-color:lavender;
     text-align: center;
+}
+.imagem1 {
+    width: 20%;
+}
+.imagemcentralizada {
+ text-align: center;
+}
 
-    font-style:oblique;
-     background-color:aqua;
- 
- display: flex;
+.unicornio {
+    font-style: initial;
 
- justify-content: space-between;
- align-items: center;
- padding: 10px;
-
-   }
-    
-    
-img{
-    width: 150px;
-    height: 150px;
 }
