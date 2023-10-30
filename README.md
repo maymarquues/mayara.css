@@ -60,3 +60,7 @@ img{
 .container {
     padding: 0px 50px;
 }
+nav a hover {
+    color: orange;
+    text-decoration: underline;
+}
